@@ -1,3 +1,46 @@
 img{
     width: 100%;
 }
+
+.body-1{
+text-align: center;
+}
+
+
+
+
+#img-siz-1{
+    width: 20%;
+}
+
+#img-siz-2{
+    width: 20%;
+}
+
+table{
+    border-style: solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+
+tr{
+    border-style: solid;
+}
+
+p{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+#cover-img{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 60%;
+}
+
+
+.spec{
+    margin-top: 10%;
+}
